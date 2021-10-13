@@ -1,0 +1,11 @@
+body {
+    background-color: crimson;
+}
+
+h2 {
+    display: inline-block;
+    color: white;
+    margin: 300px 600px;
+}
+
+
